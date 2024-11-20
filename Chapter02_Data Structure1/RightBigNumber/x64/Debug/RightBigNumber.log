@@ -1,0 +1,3 @@
+﻿  rightbignumber.cpp
+D:\Algorithm\Chapter02_Data Structure1\RightBigNumber\rightbignumber.cpp(10,9): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  RightBigNumber.vcxproj -> D:\Algorithm\Chapter02_Data Structure1\x64\Debug\RightBigNumber.exe

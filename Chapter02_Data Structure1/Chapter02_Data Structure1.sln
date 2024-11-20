@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Editor", "Editor\Editor.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordFlip2", "WordFlip2\WordFlip2.vcxproj", "{85ED7FD9-FCC0-421C-8E95-3811A914EC96}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RightBigNumber", "RightBigNumber\RightBigNumber.vcxproj", "{DBB38251-02D3-405B-B80B-A2CB64CE153F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RightDeongBigNumber", "RightDeongBigNumber\RightDeongBigNumber.vcxproj", "{D2F385DC-CB23-4C43-A225-985F1908808E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +75,22 @@ Global
 		{85ED7FD9-FCC0-421C-8E95-3811A914EC96}.Release|x64.Build.0 = Release|x64
 		{85ED7FD9-FCC0-421C-8E95-3811A914EC96}.Release|x86.ActiveCfg = Release|Win32
 		{85ED7FD9-FCC0-421C-8E95-3811A914EC96}.Release|x86.Build.0 = Release|Win32
+		{DBB38251-02D3-405B-B80B-A2CB64CE153F}.Debug|x64.ActiveCfg = Debug|x64
+		{DBB38251-02D3-405B-B80B-A2CB64CE153F}.Debug|x64.Build.0 = Debug|x64
+		{DBB38251-02D3-405B-B80B-A2CB64CE153F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBB38251-02D3-405B-B80B-A2CB64CE153F}.Debug|x86.Build.0 = Debug|Win32
+		{DBB38251-02D3-405B-B80B-A2CB64CE153F}.Release|x64.ActiveCfg = Release|x64
+		{DBB38251-02D3-405B-B80B-A2CB64CE153F}.Release|x64.Build.0 = Release|x64
+		{DBB38251-02D3-405B-B80B-A2CB64CE153F}.Release|x86.ActiveCfg = Release|Win32
+		{DBB38251-02D3-405B-B80B-A2CB64CE153F}.Release|x86.Build.0 = Release|Win32
+		{D2F385DC-CB23-4C43-A225-985F1908808E}.Debug|x64.ActiveCfg = Debug|x64
+		{D2F385DC-CB23-4C43-A225-985F1908808E}.Debug|x64.Build.0 = Debug|x64
+		{D2F385DC-CB23-4C43-A225-985F1908808E}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2F385DC-CB23-4C43-A225-985F1908808E}.Debug|x86.Build.0 = Debug|Win32
+		{D2F385DC-CB23-4C43-A225-985F1908808E}.Release|x64.ActiveCfg = Release|x64
+		{D2F385DC-CB23-4C43-A225-985F1908808E}.Release|x64.Build.0 = Release|x64
+		{D2F385DC-CB23-4C43-A225-985F1908808E}.Release|x86.ActiveCfg = Release|Win32
+		{D2F385DC-CB23-4C43-A225-985F1908808E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

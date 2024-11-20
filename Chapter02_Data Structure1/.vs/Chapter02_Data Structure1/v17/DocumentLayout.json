@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Algorithm\\Chapter02_Data Structure1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2F385DC-CB23-4C43-A225-985F1908808E}|RightDeongBigNumber\\RightDeongBigNumber.vcxproj|D:\\Algorithm\\Chapter02_Data Structure1\\RightDeongBigNumber\\rightdeongbignumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F385DC-CB23-4C43-A225-985F1908808E}|RightDeongBigNumber\\RightDeongBigNumber.vcxproj|solutionrelative:RightDeongBigNumber\\rightdeongbignumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB38251-02D3-405B-B80B-A2CB64CE153F}|RightBigNumber\\RightBigNumber.vcxproj|D:\\Algorithm\\Chapter02_Data Structure1\\RightBigNumber\\rightbignumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBB38251-02D3-405B-B80B-A2CB64CE153F}|RightBigNumber\\RightBigNumber.vcxproj|solutionrelative:RightBigNumber\\rightbignumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85ED7FD9-FCC0-421C-8E95-3811A914EC96}|WordFlip2\\WordFlip2.vcxproj|D:\\Algorithm\\Chapter02_Data Structure1\\WordFlip2\\WordFlip2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{85ED7FD9-FCC0-421C-8E95-3811A914EC96}|WordFlip2\\WordFlip2.vcxproj|solutionrelative:WordFlip2\\WordFlip2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -47,19 +55,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "rightdeongbignumber.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter02_Data Structure1\\RightDeongBigNumber\\rightdeongbignumber.cpp",
+              "RelativeDocumentMoniker": "RightDeongBigNumber\\rightdeongbignumber.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter02_Data Structure1\\RightDeongBigNumber\\rightdeongbignumber.cpp",
+              "RelativeToolTip": "RightDeongBigNumber\\rightdeongbignumber.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T08:00:42.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rightbignumber.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter02_Data Structure1\\RightBigNumber\\rightbignumber.cpp",
+              "RelativeDocumentMoniker": "RightBigNumber\\rightbignumber.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter02_Data Structure1\\RightBigNumber\\rightbignumber.cpp",
+              "RelativeToolTip": "RightBigNumber\\rightbignumber.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T07:53:03.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WordFlip2.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter02_Data Structure1\\WordFlip2\\WordFlip2.cpp",
               "RelativeDocumentMoniker": "WordFlip2\\WordFlip2.cpp",
               "ToolTip": "D:\\Algorithm\\Chapter02_Data Structure1\\WordFlip2\\WordFlip2.cpp",
               "RelativeToolTip": "WordFlip2\\WordFlip2.cpp",
-              "ViewState": "AQIAABYAAAAAAAAAAAAIwEIAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-18T08:37:59.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Editor.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter02_Data Structure1\\Editor\\Editor.cpp",
               "RelativeDocumentMoniker": "Editor\\Editor.cpp",
@@ -67,36 +101,35 @@
               "RelativeToolTip": "Editor\\Editor.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T08:49:57.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T08:49:57.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "stacksequence.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter02_Data Structure1\\StackSequence\\stacksequence.cpp",
               "RelativeDocumentMoniker": "StackSequence\\stacksequence.cpp",
               "ToolTip": "D:\\Algorithm\\Chapter02_Data Structure1\\StackSequence\\stacksequence.cpp",
               "RelativeToolTip": "StackSequence\\stacksequence.cpp",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T06:33:59.18Z"
+              "WhenOpened": "2024-11-15T06:33:59.18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Parentheses.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter02_Data Structure1\\Parentheses\\Parentheses.cpp",
               "RelativeDocumentMoniker": "Parentheses\\Parentheses.cpp",
               "ToolTip": "D:\\Algorithm\\Chapter02_Data Structure1\\Parentheses\\Parentheses.cpp",
               "RelativeToolTip": "Parentheses\\Parentheses.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T05:07:56.361Z"
+              "WhenOpened": "2024-11-15T05:07:56.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "WordFlip.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter02_Data Structure1\\WordFlip\\WordFlip.cpp",
               "RelativeDocumentMoniker": "WordFlip\\WordFlip.cpp",
@@ -104,11 +137,12 @@
               "RelativeToolTip": "WordFlip\\WordFlip.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T02:35:57.537Z"
+              "WhenOpened": "2024-11-15T02:35:57.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Stack.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter02_Data Structure1\\Stack\\Stack.cpp",
               "RelativeDocumentMoniker": "Stack\\Stack.cpp",
