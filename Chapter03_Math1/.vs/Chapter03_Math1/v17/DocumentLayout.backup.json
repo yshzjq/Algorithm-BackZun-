@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7243EA9B-535E-4CA6-BDB7-2BF63A415F94}|GCDLCM\\GCDLCM.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7243EA9B-535E-4CA6-BDB7-2BF63A415F94}|GCDLCM\\GCDLCM.vcxproj|solutionrelative:GCDLCM\\gcdlcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05420D01-C02B-4FA5-8B55-D3BBD9ED2784}|Remainder\\Remainder.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\Remainder\\remainder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{05420D01-C02B-4FA5-8B55-D3BBD9ED2784}|Remainder\\Remainder.vcxproj|solutionrelative:Remainder\\remainder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "gcdlcm.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp",
+              "RelativeDocumentMoniker": "GCDLCM\\gcdlcm.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp",
+              "RelativeToolTip": "GCDLCM\\gcdlcm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T14:44:51.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "remainder.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\Remainder\\remainder.cpp",
               "RelativeDocumentMoniker": "Remainder\\remainder.cpp",
