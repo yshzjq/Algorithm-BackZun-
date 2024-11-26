@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7629E2-888A-4A21-BB7E-FCD661F9760E}|GCD\\GCD.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\GCD\\GCD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF7629E2-888A-4A21-BB7E-FCD661F9760E}|GCD\\GCD.vcxproj|solutionrelative:GCD\\GCD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GCD.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\GCD\\GCD.cpp",
+              "RelativeDocumentMoniker": "GCD\\GCD.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\GCD\\GCD.cpp",
+              "RelativeToolTip": "GCD\\GCD.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T11:16:10.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
