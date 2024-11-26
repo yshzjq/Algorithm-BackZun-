@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\",
+  "WorkspaceRootPath": "D:\\Algorithm\\Chapter03_Math1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{093E1ECA-6702-413D-ACC4-5A98514C40F1}|findprimenumber2\\findprimenumber2.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\findprimenumber2\\findprimenumber2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8086E0CA-D4D9-4092-B69A-92A6F3E2A091}|combination\u0027s 0 count\\combination\u0027s 0 count.vcxproj|D:\\Algorithm\\Chapter03_Math1\\combination\u0027s 0 count\\combination\u0027s0count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8086E0CA-D4D9-4092-B69A-92A6F3E2A091}|combination\u0027s 0 count\\combination\u0027s 0 count.vcxproj|solutionrelative:combination\u0027s 0 count\\combination\u0027s0count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB94D4EE-63BD-4933-8A01-50FF3DAECE6A}|Factorial\u0027s 0 count\\Factorial\u0027s 0 count.vcxproj|D:\\Algorithm\\Chapter03_Math1\\Factorial\u0027s 0 count\\factorial0count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB94D4EE-63BD-4933-8A01-50FF3DAECE6A}|Factorial\u0027s 0 count\\Factorial\u0027s 0 count.vcxproj|solutionrelative:Factorial\u0027s 0 count\\factorial0count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B77C42-DB5B-4ED2-9DBC-C9A759C854D9}|Factorial\\Factorial.vcxproj|D:\\Algorithm\\Chapter03_Math1\\Factorial\\factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0B77C42-DB5B-4ED2-9DBC-C9A759C854D9}|Factorial\\Factorial.vcxproj|solutionrelative:Factorial\\factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E1ECA-6702-413D-ACC4-5A98514C40F1}|findprimenumber2\\findprimenumber2.vcxproj|D:\\Algorithm\\Chapter03_Math1\\findprimenumber2\\findprimenumber2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{093E1ECA-6702-413D-ACC4-5A98514C40F1}|findprimenumber2\\findprimenumber2.vcxproj|solutionrelative:findprimenumber2\\findprimenumber2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA28AAE-FCAF-4CF0-979B-41453863C22D}|Goldbach\u0027s conjecture\\Goldbach\u0027s conjecture.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6DA28AAE-FCAF-4CF0-979B-41453863C22D}|Goldbach\u0027s conjecture\\Goldbach\u0027s conjecture.vcxproj|D:\\Algorithm\\Chapter03_Math1\\Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6DA28AAE-FCAF-4CF0-979B-41453863C22D}|Goldbach\u0027s conjecture\\Goldbach\u0027s conjecture.vcxproj|solutionrelative:Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC4022-238C-4FFE-BFF9-0ABDABB49EC5}|FindPrimeNumber\\FindPrimeNumber.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\FindPrimeNumber\\findprimenumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E4AC4022-238C-4FFE-BFF9-0ABDABB49EC5}|FindPrimeNumber\\FindPrimeNumber.vcxproj|D:\\Algorithm\\Chapter03_Math1\\FindPrimeNumber\\findprimenumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E4AC4022-238C-4FFE-BFF9-0ABDABB49EC5}|FindPrimeNumber\\FindPrimeNumber.vcxproj|solutionrelative:FindPrimeNumber\\findprimenumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FA62B81-881D-406F-9131-7B90A736C894}|PrimeNumber\\PrimeNumber.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\PrimeNumber\\primenumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1FA62B81-881D-406F-9131-7B90A736C894}|PrimeNumber\\PrimeNumber.vcxproj|D:\\Algorithm\\Chapter03_Math1\\PrimeNumber\\primenumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1FA62B81-881D-406F-9131-7B90A736C894}|PrimeNumber\\PrimeNumber.vcxproj|solutionrelative:PrimeNumber\\primenumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05420D01-C02B-4FA5-8B55-D3BBD9ED2784}|Remainder\\Remainder.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\Remainder\\remainder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{05420D01-C02B-4FA5-8B55-D3BBD9ED2784}|Remainder\\Remainder.vcxproj|D:\\Algorithm\\Chapter03_Math1\\Remainder\\remainder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{05420D01-C02B-4FA5-8B55-D3BBD9ED2784}|Remainder\\Remainder.vcxproj|solutionrelative:Remainder\\remainder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243EA9B-535E-4CA6-BDB7-2BF63A415F94}|GCDLCM\\GCDLCM.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7243EA9B-535E-4CA6-BDB7-2BF63A415F94}|GCDLCM\\GCDLCM.vcxproj|D:\\Algorithm\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7243EA9B-535E-4CA6-BDB7-2BF63A415F94}|GCDLCM\\GCDLCM.vcxproj|solutionrelative:GCDLCM\\gcdlcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -34,85 +46,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "combination\u0027s0count.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\combination\u0027s 0 count\\combination\u0027s0count.cpp",
+              "RelativeDocumentMoniker": "combination\u0027s 0 count\\combination\u0027s0count.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\combination\u0027s 0 count\\combination\u0027s0count.cpp",
+              "RelativeToolTip": "combination\u0027s 0 count\\combination\u0027s0count.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T01:54:07.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "factorial0count.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\Factorial\u0027s 0 count\\factorial0count.cpp",
+              "RelativeDocumentMoniker": "Factorial\u0027s 0 count\\factorial0count.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\Factorial\u0027s 0 count\\factorial0count.cpp",
+              "RelativeToolTip": "Factorial\u0027s 0 count\\factorial0count.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T00:42:57.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "factorial.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\Factorial\\factorial.cpp",
+              "RelativeDocumentMoniker": "Factorial\\factorial.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\Factorial\\factorial.cpp",
+              "RelativeToolTip": "Factorial\\factorial.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T00:38:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "findprimenumber2.cpp",
-              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\findprimenumber2\\findprimenumber2.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\findprimenumber2\\findprimenumber2.cpp",
               "RelativeDocumentMoniker": "findprimenumber2\\findprimenumber2.cpp",
-              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\findprimenumber2\\findprimenumber2.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\findprimenumber2\\findprimenumber2.cpp",
               "RelativeToolTip": "findprimenumber2\\findprimenumber2.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-24T14:10:40.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "goldbach\u0027s_conjection.cpp",
-              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp",
               "RelativeDocumentMoniker": "Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp",
-              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp",
               "RelativeToolTip": "Goldbach\u0027s conjecture\\goldbach\u0027s_conjection.cpp",
               "ViewState": "AgIAAA0AAAAAAAAAAAA0wCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-24T13:17:47.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "findprimenumber.cpp",
-              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\FindPrimeNumber\\findprimenumber.cpp",
-              "RelativeDocumentMoniker": "FindPrimeNumber\\findprimenumber.cpp",
-              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\FindPrimeNumber\\findprimenumber.cpp",
-              "RelativeToolTip": "FindPrimeNumber\\findprimenumber.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA0wCQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-24T08:43:31.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "primenumber.cpp",
-              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\PrimeNumber\\primenumber.cpp",
-              "RelativeDocumentMoniker": "PrimeNumber\\primenumber.cpp",
-              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\PrimeNumber\\primenumber.cpp",
-              "RelativeToolTip": "PrimeNumber\\primenumber.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-24T07:43:32.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T13:17:47.281Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "gcdlcm.cpp",
-              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp",
-              "RelativeDocumentMoniker": "GCDLCM\\gcdlcm.cpp",
-              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp",
-              "RelativeToolTip": "GCDLCM\\gcdlcm.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Title": "findprimenumber.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\FindPrimeNumber\\findprimenumber.cpp",
+              "RelativeDocumentMoniker": "FindPrimeNumber\\findprimenumber.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\FindPrimeNumber\\findprimenumber.cpp",
+              "RelativeToolTip": "FindPrimeNumber\\findprimenumber.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA0wCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-23T14:44:51.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T08:43:31.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "primenumber.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\PrimeNumber\\primenumber.cpp",
+              "RelativeDocumentMoniker": "PrimeNumber\\primenumber.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\PrimeNumber\\primenumber.cpp",
+              "RelativeToolTip": "PrimeNumber\\primenumber.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T07:43:32.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gcdlcm.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp",
+              "RelativeDocumentMoniker": "GCDLCM\\gcdlcm.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\GCDLCM\\gcdlcm.cpp",
+              "RelativeToolTip": "GCDLCM\\gcdlcm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T14:44:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "remainder.cpp",
-              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\Remainder\\remainder.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter03_Math1\\Remainder\\remainder.cpp",
               "RelativeDocumentMoniker": "Remainder\\remainder.cpp",
-              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1\\Remainder\\remainder.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter03_Math1\\Remainder\\remainder.cpp",
               "RelativeToolTip": "Remainder\\remainder.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-23T12:42:44.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T12:42:44.667Z"
             }
           ]
         }

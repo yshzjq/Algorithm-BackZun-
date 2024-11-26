@@ -1,0 +1,8 @@
+﻿  combination's0count.cpp
+D:\Algorithm\Chapter03_Math1\combination's 0 count\combination's0count.cpp(22,17): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Algorithm\Chapter03_Math1\combination's 0 count\combination's0count.cpp(27,17): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Algorithm\Chapter03_Math1\combination's 0 count\combination's0count.cpp(32,17): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Algorithm\Chapter03_Math1\combination's 0 count\combination's0count.cpp(37,17): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Algorithm\Chapter03_Math1\combination's 0 count\combination's0count.cpp(42,24): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Algorithm\Chapter03_Math1\combination's 0 count\combination's0count.cpp(47,24): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  combination's 0 count.vcxproj -> D:\Algorithm\Chapter03_Math1\x64\Debug\combination's 0 count.exe
