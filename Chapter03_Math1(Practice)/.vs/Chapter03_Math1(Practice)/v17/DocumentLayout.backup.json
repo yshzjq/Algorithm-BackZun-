@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64D6ABD5-F944-456A-A50F-0CB8251BAEFC}|BinaryOctalTrans\\BinaryOctalTrans.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\BinaryOctalTrans\\BinaryOctalTrans.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64D6ABD5-F944-456A-A50F-0CB8251BAEFC}|BinaryOctalTrans\\BinaryOctalTrans.vcxproj|solutionrelative:BinaryOctalTrans\\BinaryOctalTrans.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66EF4F0B-0692-4969-A025-B3F587F84341}|hideandseek\\hideandseek.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\hideandseek\\hideandseek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{66EF4F0B-0692-4969-A025-B3F587F84341}|hideandseek\\hideandseek.vcxproj|solutionrelative:hideandseek\\hideandseek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BinaryOctalTrans.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\BinaryOctalTrans\\BinaryOctalTrans.cpp",
+              "RelativeDocumentMoniker": "BinaryOctalTrans\\BinaryOctalTrans.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\BinaryOctalTrans\\BinaryOctalTrans.cpp*",
+              "RelativeToolTip": "BinaryOctalTrans\\BinaryOctalTrans.cpp*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T11:20:03.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "hideandseek.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\hideandseek\\hideandseek.cpp",
               "RelativeDocumentMoniker": "hideandseek\\hideandseek.cpp",
               "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\hideandseek\\hideandseek.cpp",
               "RelativeToolTip": "hideandseek\\hideandseek.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-26T13:37:13.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GCD.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\GCD\\GCD.cpp",
               "RelativeDocumentMoniker": "GCD\\GCD.cpp",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "GCD\\GCD.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T11:16:10.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T11:16:10.68Z"
             }
           ]
         }
