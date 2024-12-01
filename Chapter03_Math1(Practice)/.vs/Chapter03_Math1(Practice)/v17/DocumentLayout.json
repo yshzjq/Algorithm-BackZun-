@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DD92C8D-F2EB-4B66-AFBD-4AF9B47F1266}|Goldbach\u0027s Partition\\Goldbach\u0027s Partition.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\Goldbach\u0027s Partition\\goldbach\u0027s_partition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DD92C8D-F2EB-4B66-AFBD-4AF9B47F1266}|Goldbach\u0027s Partition\\Goldbach\u0027s Partition.vcxproj|solutionrelative:Goldbach\u0027s Partition\\goldbach\u0027s_partition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B695D2C0-E291-4011-B588-28F14988FE7A}|MinusBinary\\MinusBinary.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\MinusBinary\\minusbinary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B695D2C0-E291-4011-B588-28F14988FE7A}|MinusBinary\\MinusBinary.vcxproj|solutionrelative:MinusBinary\\minusbinary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,37 +34,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "goldbach\u0027s_partition.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\Goldbach\u0027s Partition\\goldbach\u0027s_partition.cpp",
+              "RelativeDocumentMoniker": "Goldbach\u0027s Partition\\goldbach\u0027s_partition.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\Goldbach\u0027s Partition\\goldbach\u0027s_partition.cpp",
+              "RelativeToolTip": "Goldbach\u0027s Partition\\goldbach\u0027s_partition.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T04:31:48.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "minusbinary.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\MinusBinary\\minusbinary.cpp",
               "RelativeDocumentMoniker": "MinusBinary\\minusbinary.cpp",
               "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\MinusBinary\\minusbinary.cpp",
               "RelativeToolTip": "MinusBinary\\minusbinary.cpp",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswDQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwFgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T13:36:58.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "octalbinarytrans.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\OctalBinaryTrans\\octalbinarytrans.cpp",
               "RelativeDocumentMoniker": "OctalBinaryTrans\\octalbinarytrans.cpp",
               "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\OctalBinaryTrans\\octalbinarytrans.cpp",
               "RelativeToolTip": "OctalBinaryTrans\\octalbinarytrans.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswDcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T12:33:45.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BinaryOctalTrans.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\BinaryOctalTrans\\BinaryOctalTrans.cpp",
               "RelativeDocumentMoniker": "BinaryOctalTrans\\BinaryOctalTrans.cpp",
@@ -68,12 +89,11 @@
               "RelativeToolTip": "BinaryOctalTrans\\BinaryOctalTrans.cpp",
               "ViewState": "AgIAAEAAAAAAAAAAAAA0wGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-29T11:20:03.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T11:20:03.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "hideandseek.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\hideandseek\\hideandseek.cpp",
               "RelativeDocumentMoniker": "hideandseek\\hideandseek.cpp",
@@ -85,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GCD.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter03_Math1(Practice)\\GCD\\GCD.cpp",
               "RelativeDocumentMoniker": "GCD\\GCD.cpp",

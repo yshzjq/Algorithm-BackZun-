@@ -4,6 +4,31 @@
 
 using namespace std;
 
+void f(int n)
+{
+	if (n == 0) {
+		return;
+	}
+
+	if (n % -2 == 0)
+	{
+		f(n / -2);
+		cout << '0';
+	}
+	else
+	{
+		if (n < 0)
+		{
+			f((n-1)/-2);
+		}
+		else
+		{
+			f(n / -2);
+		}
+		cout << '1';
+	} 
+}
+
 int main()
 {
 	{
@@ -12,7 +37,7 @@ int main()
 		cout.tie(NULL);
 	}
 
-	stack<long long int> s;
+	/*stack<long long int> s;
 	int n;
 
 	cin >> n;
@@ -49,5 +74,16 @@ int main()
 		}
 		else cout << s.top();
 		s.pop();
+	}*/
+
+	int N;
+
+	cin >> N;
+
+	if (N == 0)
+	{
+		cout << '0';
 	}
+	else f(N);
+
 }
