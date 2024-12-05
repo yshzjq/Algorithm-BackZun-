@@ -4,6 +4,7 @@ using namespace std;
 
 int arr[1000001];
 
+// 정답 1 Top_Down
 int f(int x)
 {
 	if (x == 1) return 0;
@@ -41,3 +42,32 @@ int main()
 	cout << f(X);
 
 }
+
+/* 정답 2 Bottom_Down
+int main()
+{
+	int N;
+
+	cin >> N;
+
+	arr[1] = 0;
+
+	if (N > 1)
+	{
+		for (int i = 2; i <= N; i++)
+		{
+			arr[i] = arr[i - 1] + 1;
+			if (i % 2 == 0 && arr[i] > arr[i / 2] + 1)
+			{
+				arr[i] = arr[i / 2] + 1;
+			}
+
+			if (i % 3 == 0 && arr[i] > arr[i / 3] + 1)
+			{
+				arr[i] = arr[i / 3] + 1;
+			}
+		}
+	}
+	cout << arr[N];
+}
+*/

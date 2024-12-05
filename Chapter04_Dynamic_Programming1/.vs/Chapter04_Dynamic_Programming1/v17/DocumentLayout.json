@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EA6D7ED-C37F-43FF-A89C-0FBCE1667460}|1,2,3_Plus\\1,2,3_Plus.vcxproj|D:\\Algorithm\\Chapter04_Dynamic_Programming1\\1,2,3_Plus\\1,2,3plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EA6D7ED-C37F-43FF-A89C-0FBCE1667460}|1,2,3_Plus\\1,2,3_Plus.vcxproj|solutionrelative:1,2,3_Plus\\1,2,3plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD06459C-E5E6-4142-97D5-3F4F7C288FE6}|2xn_Tiling\\2xn_Tiling.vcxproj|D:\\Algorithm\\Chapter04_Dynamic_Programming1\\2xn_Tiling\\2xn_tiling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD06459C-E5E6-4142-97D5-3F4F7C288FE6}|2xn_Tiling\\2xn_Tiling.vcxproj|solutionrelative:2xn_Tiling\\2xn_tiling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9185CEA-CF56-4C9D-97EB-4CB9A3161B4D}|2xn_Tiling_2\\2xn_Tiling_2.vcxproj|D:\\Algorithm\\Chapter04_Dynamic_Programming1\\2xn_Tiling_2\\2xn_Tiling2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9185CEA-CF56-4C9D-97EB-4CB9A3161B4D}|2xn_Tiling_2\\2xn_Tiling_2.vcxproj|solutionrelative:2xn_Tiling_2\\2xn_Tiling2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71BC99F5-4A42-46E3-846C-EFBA051D5AFA}|MakeOne\\MakeOne.vcxproj|D:\\Algorithm\\Chapter04_Dynamic_Programming1\\MakeOne\\makeone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{71BC99F5-4A42-46E3-846C-EFBA051D5AFA}|MakeOne\\MakeOne.vcxproj|solutionrelative:MakeOne\\makeone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,12 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1,2,3plus.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\1,2,3_Plus\\1,2,3plus.cpp",
+              "RelativeDocumentMoniker": "1,2,3_Plus\\1,2,3plus.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\1,2,3_Plus\\1,2,3plus.cpp",
+              "RelativeToolTip": "1,2,3_Plus\\1,2,3plus.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T04:00:17.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2xn_Tiling2.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\2xn_Tiling_2\\2xn_Tiling2.cpp",
+              "RelativeDocumentMoniker": "2xn_Tiling_2\\2xn_Tiling2.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\2xn_Tiling_2\\2xn_Tiling2.cpp",
+              "RelativeToolTip": "2xn_Tiling_2\\2xn_Tiling2.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T02:45:11.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2xn_tiling.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\2xn_Tiling\\2xn_tiling.cpp",
+              "RelativeDocumentMoniker": "2xn_Tiling\\2xn_tiling.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\2xn_Tiling\\2xn_tiling.cpp",
+              "RelativeToolTip": "2xn_Tiling\\2xn_tiling.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwEIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T01:41:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "makeone.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\MakeOne\\makeone.cpp",
               "RelativeDocumentMoniker": "MakeOne\\makeone.cpp",
               "ToolTip": "D:\\Algorithm\\Chapter04_Dynamic_Programming1\\MakeOne\\makeone.cpp",
               "RelativeToolTip": "MakeOne\\makeone.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T09:56:07.874Z",
               "EditorCaption": ""
