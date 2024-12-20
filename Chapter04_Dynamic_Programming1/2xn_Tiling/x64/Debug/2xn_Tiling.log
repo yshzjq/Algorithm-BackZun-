@@ -1,5 +1,0 @@
-﻿  2xn_tiling2.cpp
-2xn_tiling2.obj : error LNK2005: "int __cdecl f(int)" (?f@@YAHH@Z)이(가) 2xn_tiling.obj에 이미 정의되어 있습니다.
-2xn_tiling2.obj : error LNK2005: main이(가) 2xn_tiling.obj에 이미 정의되어 있습니다.
-2xn_tiling2.obj : error LNK2005: "int * arr" (?arr@@3PAHA)이(가) 2xn_tiling.obj에 이미 정의되어 있습니다.
-D:\Algorithm\Chapter04_Dynamic_Programming1\x64\Debug\2xn_Tiling.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
