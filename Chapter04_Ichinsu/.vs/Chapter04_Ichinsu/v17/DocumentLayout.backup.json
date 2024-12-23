@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Algorithm\\Chapter04_Ichinsu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9BF1828-1A3A-4F23-AE3C-47E604A22C43}|Ichinsu\\Ichinsu.vcxproj|D:\\Algorithm\\Chapter04_Ichinsu\\Ichinsu\\ichinsu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BF1828-1A3A-4F23-AE3C-47E604A22C43}|Ichinsu\\Ichinsu.vcxproj|solutionrelative:Ichinsu\\ichinsu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D439A5-DA19-4FF1-814B-456EE117680B}|EasyStairsNumber\\EasyStairsNumber.vcxproj|D:\\Algorithm\\Chapter04_Ichinsu\\EasyStairsNumber\\easystairsnumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21D439A5-DA19-4FF1-814B-456EE117680B}|EasyStairsNumber\\EasyStairsNumber.vcxproj|solutionrelative:EasyStairsNumber\\easystairsnumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32F7E108-44BC-48AB-81D6-BD92744468F3}|1,2,3plus_5\\1,2,3plus_5.vcxproj|D:\\Algorithm\\Chapter04_Ichinsu\\1,2,3plus_5\\1,2,3plus_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32F7E108-44BC-48AB-81D6-BD92744468F3}|1,2,3plus_5\\1,2,3plus_5.vcxproj|solutionrelative:1,2,3plus_5\\1,2,3plus_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ichinsu.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter04_Ichinsu\\Ichinsu\\ichinsu.cpp",
+              "RelativeDocumentMoniker": "Ichinsu\\ichinsu.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter04_Ichinsu\\Ichinsu\\ichinsu.cpp",
+              "RelativeToolTip": "Ichinsu\\ichinsu.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T08:25:08.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "easystairsnumber.cpp",
+              "DocumentMoniker": "D:\\Algorithm\\Chapter04_Ichinsu\\EasyStairsNumber\\easystairsnumber.cpp",
+              "RelativeDocumentMoniker": "EasyStairsNumber\\easystairsnumber.cpp",
+              "ToolTip": "D:\\Algorithm\\Chapter04_Ichinsu\\EasyStairsNumber\\easystairsnumber.cpp",
+              "RelativeToolTip": "EasyStairsNumber\\easystairsnumber.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T07:01:15.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "1,2,3plus_5.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter04_Ichinsu\\1,2,3plus_5\\1,2,3plus_5.cpp",
               "RelativeDocumentMoniker": "1,2,3plus_5\\1,2,3plus_5.cpp",
               "ToolTip": "D:\\Algorithm\\Chapter04_Ichinsu\\1,2,3plus_5\\1,2,3plus_5.cpp",
               "RelativeToolTip": "1,2,3plus_5\\1,2,3plus_5.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAFgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-20T05:29:00.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "purchase_card 2.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter04_Ichinsu\\Purchase_Card2\\purchase_card 2.cpp",
               "RelativeDocumentMoniker": "Purchase_Card2\\purchase_card 2.cpp",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "Purchase_Card2\\purchase_card 2.cpp",
               "ViewState": "AgIAADgAAAAAAAAAAAAqwFwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-20T05:00:42.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T05:00:42.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "purchase_card.cpp",
               "DocumentMoniker": "D:\\Algorithm\\Chapter04_Ichinsu\\Purchase_Card\\purchase_card.cpp",
               "RelativeDocumentMoniker": "Purchase_Card\\purchase_card.cpp",
