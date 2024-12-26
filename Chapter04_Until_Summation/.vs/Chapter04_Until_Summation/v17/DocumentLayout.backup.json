@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Algorithm\\Chapter04_Until_Summation\\",
+  "WorkspaceRootPath": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A858731-6A8F-4C3F-B4E7-A2EFA8DD6D7D}|LIS4\\LIS4.vcxproj|D:\\Algorithm\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7A858731-6A8F-4C3F-B4E7-A2EFA8DD6D7D}|LIS4\\LIS4.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A858731-6A8F-4C3F-B4E7-A2EFA8DD6D7D}|LIS4\\LIS4.vcxproj|solutionrelative:LIS4\\LIS4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481A69A8-F1CD-4F61-8BAC-C4FF564EACAD}|Chapter04_Until_Summation\\Chapter04_Until_Summation.vcxproj|D:\\Algorithm\\Chapter04_Until_Summation\\Chapter04_Until_Summation\\LIS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{481A69A8-F1CD-4F61-8BAC-C4FF564EACAD}|Chapter04_Until_Summation\\Chapter04_Until_Summation.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\Chapter04_Until_Summation\\LIS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{481A69A8-F1CD-4F61-8BAC-C4FF564EACAD}|Chapter04_Until_Summation\\Chapter04_Until_Summation.vcxproj|solutionrelative:Chapter04_Until_Summation\\LIS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,25 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LIS4.cpp",
-              "DocumentMoniker": "D:\\Algorithm\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp",
               "RelativeDocumentMoniker": "LIS4\\LIS4.cpp",
-              "ToolTip": "D:\\Algorithm\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp",
               "RelativeToolTip": "LIS4\\LIS4.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-26T08:57:43.38Z",
               "EditorCaption": ""
@@ -45,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LIS.cpp",
-              "DocumentMoniker": "D:\\Algorithm\\Chapter04_Until_Summation\\Chapter04_Until_Summation\\LIS.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\Chapter04_Until_Summation\\LIS.cpp",
               "RelativeDocumentMoniker": "Chapter04_Until_Summation\\LIS.cpp",
-              "ToolTip": "D:\\Algorithm\\Chapter04_Until_Summation\\Chapter04_Until_Summation\\LIS.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\Chapter04_Until_Summation\\LIS.cpp",
               "RelativeToolTip": "Chapter04_Until_Summation\\LIS.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-26T06:31:47.533Z",
               "EditorCaption": ""
