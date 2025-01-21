@@ -1,56 +1,56 @@
-#include <iostream>
-#include <stack>
+#include <iostream>	
 
 using namespace std;
 
 int A[1001];
-int D[1001];
 int V[1001];
+int H[1001];
 
-void f(int p)
+void f(int n)
 {
-	if (p == 0) return;
 
-	f(V[p]);
-	cout << A[p] << ' ';
+	if (n == 0) return;
+
+	f(H[n]);
+	cout << A[n] << ' ';
+
+	return;
 }
 
 int main()
 {
 	int N;
-
-	stack<int> stk;
+	int max = 1;
+	int maxidx = 1;
 
 	cin >> N;
 
-	for (int i = 1; i <= N; i++)
+	for (int i = 1; i <= N; ++i)
 	{
 		cin >> A[i];
 	}
 
-	int max = 1;
-
-	for (int i = 1; i <= N; i++)
+	for (int i = 1; i <= N; ++i)
 	{
-		D[i] = 1;
-		V[i] = 0;
-		for (int j = 1; j < i; j++)
+		V[i] = 1;
+
+		for (int j = 1; j < i; ++j)
 		{
-			if (A[j] < A[i] && D[j] + 1 > D[i])
+			if (A[j] < A[i] && V[i] <= V[j])
 			{
-				D[i] = D[j] + 1;
-				V[i] = j;
-				if (D[max] < D[i])
+				V[i] = V[j] + 1;
+				H[i] = j;
+				if (max < V[i])
 				{
-					max = i;
+					max = V[i];
+					maxidx = i;
 				}
 			}
 		}
 	}
+	cout << max << '\n';
 
-	cout << D[max] << '\n';
-
-	f(max);
+	f(maxidx);
 
 	return 0;
 }

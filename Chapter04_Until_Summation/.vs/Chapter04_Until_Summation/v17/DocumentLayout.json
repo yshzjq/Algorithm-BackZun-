@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EC1D821-E350-442C-BCCA-666A6CDB88EE}|Sum of squared numbers\\Sum of squared numbers.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\Sum of squared numbers\\Sum of squared numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EC1D821-E350-442C-BCCA-666A6CDB88EE}|Sum of squared numbers\\Sum of squared numbers.vcxproj|solutionrelative:Sum of squared numbers\\Sum of squared numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C23B0F7-3F2A-4320-B1F1-13287A1F6F82}|ContinuousSum\\ContinuousSum.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\ContinuousSum\\ContinuousSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C23B0F7-3F2A-4320-B1F1-13287A1F6F82}|ContinuousSum\\ContinuousSum.vcxproj|solutionrelative:ContinuousSum\\ContinuousSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A858731-6A8F-4C3F-B4E7-A2EFA8DD6D7D}|LIS4\\LIS4.vcxproj|D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A858731-6A8F-4C3F-B4E7-A2EFA8DD6D7D}|LIS4\\LIS4.vcxproj|solutionrelative:LIS4\\LIS4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +35,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LIS4.cpp",
-              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp",
-              "RelativeDocumentMoniker": "LIS4\\LIS4.cpp",
-              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp",
-              "RelativeToolTip": "LIS4\\LIS4.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCEAAAACAAAAAAAAAA==",
+              "Title": "Sum of squared numbers.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\Sum of squared numbers\\Sum of squared numbers.cpp",
+              "RelativeDocumentMoniker": "Sum of squared numbers\\Sum of squared numbers.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\Sum of squared numbers\\Sum of squared numbers.cpp",
+              "RelativeToolTip": "Sum of squared numbers\\Sum of squared numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-26T08:57:43.38Z",
+              "WhenOpened": "2025-01-11T08:13:12.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ContinuousSum.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\ContinuousSum\\ContinuousSum.cpp",
+              "RelativeDocumentMoniker": "ContinuousSum\\ContinuousSum.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\ContinuousSum\\ContinuousSum.cpp",
+              "RelativeToolTip": "ContinuousSum\\ContinuousSum.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T06:34:49.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LIS4.cpp",
+              "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp",
+              "RelativeDocumentMoniker": "LIS4\\LIS4.cpp",
+              "ToolTip": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\LIS4\\LIS4.cpp",
+              "RelativeToolTip": "LIS4\\LIS4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T08:57:43.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LIS.cpp",
               "DocumentMoniker": "D:\\GIt\\Algorithm-BackZun-\\Chapter04_Until_Summation\\Chapter04_Until_Summation\\LIS.cpp",
               "RelativeDocumentMoniker": "Chapter04_Until_Summation\\LIS.cpp",
@@ -47,8 +79,7 @@
               "RelativeToolTip": "Chapter04_Until_Summation\\LIS.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-26T06:31:47.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T06:31:47.533Z"
             }
           ]
         }
