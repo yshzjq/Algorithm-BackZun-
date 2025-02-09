@@ -11,24 +11,19 @@ int main()
 
 	cin >> n;
 
-	
-
 	for (int i = 1; i <= n; i++)
 	{
 		cin >> A[i];
+
+		D[i] = A[i] + D[i - 1];
+
+		if (D[i] < A[i]) D[i] = A[i];
 	}
 
-	int max = A[1];
+	int max = D[1];
 
-	for (int i = 1; i <= n; ++i)
+	for (int i = 1; i <= n; i++)
 	{
-		D[i] = D[i-1] + A[i];
-
-		if (D[i] < A[i])
-		{
-			D[i] = A[i];
-		}
-
 		if (max < D[i]) max = D[i];
 	}
 

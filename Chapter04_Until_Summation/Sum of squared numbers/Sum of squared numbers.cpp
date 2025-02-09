@@ -2,36 +2,32 @@
 
 using namespace std;
 
-int D[100001];
+long long int A[100001];
 
-int f(int n)
+long long int f(long long int n)
 {
-	if (n == 0) return 0;
+	if (A[n] >= 1) return A[n];
+	if (n <= 1) return n;
 
-	for (int i = 1; i*i <= n; i++)
+	for (int i = 1; i * i <= n;i++)
 	{
-		if (D[n] > 0)
+		if (n >= i * i)
 		{
 			int tmp = f(n - (i * i)) + 1;
-			if (D[n] > tmp)
-			{
-				D[n] = tmp;
-			}
+			if (A[n] == 0 || A[n] > tmp) A[n] = tmp;
 		}
-		else
-		{
-			D[n] = f(n - (i * i)) + 1;
-		}
+		else break;
 	}
 
-	return D[n];
+	return A[n];
 }
 
 int main()
 {
-	int n;
+	long long int N;
 
-	cin >> n;
+	cin >> N;
 
-	cout << f(n);
+	cout << f(N);
+
 }
