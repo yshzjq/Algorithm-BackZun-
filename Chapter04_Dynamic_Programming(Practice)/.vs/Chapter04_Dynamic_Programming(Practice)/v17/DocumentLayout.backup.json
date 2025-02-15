@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Algorithm\\Chapter04_Dynamic_Programming(Practice)\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F2655A6-1506-4314-8AC8-643589671258}|Project1\\Project1.vcxproj|D:\\Algorithm\\Chapter04_Dynamic_Programming(Practice)\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F2655A6-1506-4314-8AC8-643589671258}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{24CED48A-768F-4764-8031-69E7D0157810}|Sticker\\Sticker.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24CED48A-768F-4764-8031-69E7D0157810}|Sticker\\Sticker.vcxproj|solutionrelative:Sticker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,31 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Algorithm\\Chapter04_Dynamic_Programming(Practice)\\Project1\\main.cpp",
-              "RelativeDocumentMoniker": "Project1\\main.cpp",
-              "ToolTip": "D:\\Algorithm\\Chapter04_Dynamic_Programming(Practice)\\Project1\\main.cpp",
-              "RelativeToolTip": "Project1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
+              "RelativeDocumentMoniker": "Sticker\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
+              "RelativeToolTip": "Sticker\\main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-11T07:08:00.092Z",
+              "WhenOpened": "2025-02-15T05:03:51.813Z",
               "EditorCaption": ""
             }
           ]
