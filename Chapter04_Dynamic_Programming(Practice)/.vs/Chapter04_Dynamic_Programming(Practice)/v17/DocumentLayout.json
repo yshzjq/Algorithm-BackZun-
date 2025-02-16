@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\",
+  "WorkspaceRootPath": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{135D1664-F24F-4686-8029-A42D8E390DED}|wine_tasting\\wine_tasting.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{135D1664-F24F-4686-8029-A42D8E390DED}|wine_tasting\\wine_tasting.vcxproj|D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{135D1664-F24F-4686-8029-A42D8E390DED}|wine_tasting\\wine_tasting.vcxproj|solutionrelative:wine_tasting\\wine_tasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CED48A-768F-4764-8031-69E7D0157810}|Sticker\\Sticker.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{24CED48A-768F-4764-8031-69E7D0157810}|Sticker\\Sticker.vcxproj|D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{24CED48A-768F-4764-8031-69E7D0157810}|Sticker\\Sticker.vcxproj|solutionrelative:Sticker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "wine_tasting.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp",
+              "DocumentMoniker": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp",
               "RelativeDocumentMoniker": "wine_tasting\\wine_tasting.cpp",
-              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp",
+              "ToolTip": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp",
               "RelativeToolTip": "wine_tasting\\wine_tasting.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-15T07:21:47.767Z",
               "EditorCaption": ""
@@ -37,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
+              "DocumentMoniker": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
               "RelativeDocumentMoniker": "Sticker\\main.cpp",
-              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
+              "ToolTip": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
               "RelativeToolTip": "Sticker\\main.cpp",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowCkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
