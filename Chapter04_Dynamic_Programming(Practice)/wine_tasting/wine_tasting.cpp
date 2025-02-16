@@ -1,9 +1,11 @@
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
 
-int A[10001];
-int B[10001][8];
+
+int wine[10001];
+long long A[10001][16];
 
 int main()
 {
@@ -13,12 +15,20 @@ int main()
 
 	for (int i = 1;i <= n;i++)
 	{
-		cin >> A[i];
+		cin >> wine[i];
+	}
+	A[1][0] = 0;
+	A[1][1] = wine[0];
+	A[1][2] = wine[0] + wine[1];
+
+
+	for (int i = 2;i <= n;++i)
+	{
+		A[i][0] = max({A[i - 1][2], A[i - 2][1],A[i-1][1]});
+		A[i][1] = A[i-1][0]+ wine[i];
+		A[i][2] = A[i-1][1] + wine[i];
 	}
 
-	for (int i = 1;i <= n;i++)
-	{
-		B[i][]
-	}
+	cout << max({ A[n][0],A[n][1],A[n][2] }) << '\n';
 
 }
