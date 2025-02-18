@@ -19,15 +19,20 @@ int main()
 	for (int i = 1; i <= N; i++)
 	{
 		V[i] = A[i];
-		for (int j = 1; j <= i; j++)
+		for (int j = 1; j < i; j++)
 		{
-			if (V[i] < V[j] + A[i] && A[i] > A[j])
+			if (A[i] > A[j] && V[i] < V[j] + A[i])
 			{
-				V[i] = A[i] + V[j];
+				V[i] = V[j] + A[i];
 			}
 		}		
 	}
+	int max = 0;
+	for (int i = 1; i <= N; i++)
+	{
+		if (V[i] > max) max = V[i];
+	}
 
-	cout << V[N];
+	cout << max;
 
 }
