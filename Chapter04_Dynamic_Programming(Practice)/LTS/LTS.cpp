@@ -16,16 +16,13 @@ int main()
 		cin >> A[i];
 	}
 
-	for (int i = 1; i <= N; i++)
+	for (int i = 1;i <= N;i++)
 	{
 		V[i] = A[i];
-		for (int j = 1; j <= i; j++)
+		for (int j = 1;j < i;j++)
 		{
-			if (V[i] < V[j] + A[i] && A[i] > A[j])
-			{
-				V[i] = A[i] + V[j];
-			}
-		}		
+			 if()
+		}
 	}
 
 	cout << V[N];
