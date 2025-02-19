@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E641F4A-8C08-45CA-AEDE-8562839B4C51}|LTS\\LTS.vcxproj|D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LTS\\LTS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E641F4A-8C08-45CA-AEDE-8562839B4C51}|LTS\\LTS.vcxproj|solutionrelative:LTS\\LTS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0D36BB83-14BE-4F3B-9548-90A8F6BF9F64}|Continuous_sum\\Continuous_sum.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Continuous_sum\\Continuous_sum2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D36BB83-14BE-4F3B-9548-90A8F6BF9F64}|Continuous_sum\\Continuous_sum.vcxproj|solutionrelative:Continuous_sum\\Continuous_sum2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0FBEDC3-69F9-40D0-A129-F6D7FAA8B125}|Integer_Triangle\\Integer_Triangle.vcxproj|D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Integer_Triangle\\integer_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42A5DF20-8CD1-4E0B-A3F7-0798154D62F9}|LBS\\LBS.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LBS\\LBS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42A5DF20-8CD1-4E0B-A3F7-0798154D62F9}|LBS\\LBS.vcxproj|solutionrelative:LBS\\LBS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B653F952-3010-4DBE-B213-F1B558033AE1}|LDS\\LDS.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LDS\\LDS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B653F952-3010-4DBE-B213-F1B558033AE1}|LDS\\LDS.vcxproj|solutionrelative:LDS\\LDS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E641F4A-8C08-45CA-AEDE-8562839B4C51}|LTS\\LTS.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LTS\\LIS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E641F4A-8C08-45CA-AEDE-8562839B4C51}|LTS\\LTS.vcxproj|solutionrelative:LTS\\LIS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FBEDC3-69F9-40D0-A129-F6D7FAA8B125}|Integer_Triangle\\Integer_Triangle.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Integer_Triangle\\integer_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A0FBEDC3-69F9-40D0-A129-F6D7FAA8B125}|Integer_Triangle\\Integer_Triangle.vcxproj|solutionrelative:Integer_Triangle\\integer_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{135D1664-F24F-4686-8029-A42D8E390DED}|wine_tasting\\wine_tasting.vcxproj|D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{135D1664-F24F-4686-8029-A42D8E390DED}|wine_tasting\\wine_tasting.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{135D1664-F24F-4686-8029-A42D8E390DED}|wine_tasting\\wine_tasting.vcxproj|solutionrelative:wine_tasting\\wine_tasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CED48A-768F-4764-8031-69E7D0157810}|Sticker\\Sticker.vcxproj|D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{24CED48A-768F-4764-8031-69E7D0157810}|Sticker\\Sticker.vcxproj|C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{24CED48A-768F-4764-8031-69E7D0157810}|Sticker\\Sticker.vcxproj|solutionrelative:Sticker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -35,23 +47,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LTS.cpp",
-              "DocumentMoniker": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LTS\\LTS.cpp",
-              "RelativeDocumentMoniker": "LTS\\LTS.cpp",
-              "ToolTip": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LTS\\LTS.cpp",
-              "RelativeToolTip": "LTS\\LTS.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Title": "Continuous_sum2.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Continuous_sum\\Continuous_sum2.cpp",
+              "RelativeDocumentMoniker": "Continuous_sum\\Continuous_sum2.cpp",
+              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Continuous_sum\\Continuous_sum2.cpp",
+              "RelativeToolTip": "Continuous_sum\\Continuous_sum2.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T07:15:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LBS.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LBS\\LBS.cpp",
+              "RelativeDocumentMoniker": "LBS\\LBS.cpp",
+              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LBS\\LBS.cpp",
+              "RelativeToolTip": "LBS\\LBS.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T06:35:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LDS.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LDS\\LDS.cpp",
+              "RelativeDocumentMoniker": "LDS\\LDS.cpp",
+              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LDS\\LDS.cpp",
+              "RelativeToolTip": "LDS\\LDS.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T05:17:36.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LIS.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LTS\\LIS.cpp",
+              "RelativeDocumentMoniker": "LTS\\LIS.cpp",
+              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\LTS\\LIS.cpp",
+              "RelativeToolTip": "LTS\\LIS.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-17T14:02:31.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "integer_triangle.cpp",
-              "DocumentMoniker": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Integer_Triangle\\integer_triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Integer_Triangle\\integer_triangle.cpp",
               "RelativeDocumentMoniker": "Integer_Triangle\\integer_triangle.cpp",
-              "ToolTip": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Integer_Triangle\\integer_triangle.cpp",
+              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Integer_Triangle\\integer_triangle.cpp",
               "RelativeToolTip": "Integer_Triangle\\integer_triangle.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAmwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -59,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "wine_tasting.cpp",
-              "DocumentMoniker": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp",
               "RelativeDocumentMoniker": "wine_tasting\\wine_tasting.cpp",
-              "ToolTip": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp",
+              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\wine_tasting\\wine_tasting.cpp",
               "RelativeToolTip": "wine_tasting\\wine_tasting.cpp",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -71,11 +122,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
               "RelativeDocumentMoniker": "Sticker\\main.cpp",
-              "ToolTip": "D:\\work\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC724\uC2B9\uD658\\Documents\\GitHub\\Algorithm-BackZun-\\Chapter04_Dynamic_Programming(Practice)\\Sticker\\main.cpp",
               "RelativeToolTip": "Sticker\\main.cpp",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowCkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
