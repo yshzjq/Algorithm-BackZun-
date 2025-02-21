@@ -1,9 +1,9 @@
 #include <iostream>
 
 using namespace std;
-
-int A[100001];
-int V[100001];
+int A[100003];
+int VL[100003];
+int VR[100003];
 
 int main()
 {
@@ -16,32 +16,39 @@ int main()
 		cin >> A[i];
 	}
 
-	int max = 0;
-
-
-	A[0] = 0;
-	for (int i = 0;i <= n;i++)
+	for (int i = 1;i <= n;i++)
 	{
-		int tmp = A[i];
-		A[i] = 0;
+		VL[i] = VL[i-1] + A[i];
 
-		for (int j = 1;j <= n;j++)
+		if (A[i] > VL[i])
 		{
-			V[j] = A[j] + V[j - 1];
-
-			if (V[j] < A[j]) V[j] = A[j];
-
-			
+			VL[i] = A[i];
 		}
+	}
+	
+	for (int i = n;i >= 1;i--)
+	{
+		VR[i] = VR[i+1] + A[i];
 
-		for (int k = 1;k <= n;k++)
+		if (A[i] > VR[i])
 		{
-			if (max < V[k]) max = V[k];
-			V[k] = 0;
+			VR[i] = A[i];
 		}
-
-		A[i] = tmp;
 	}
 
-	cout << max;
+	int max = VL[1];
+
+	for (int i = 1;i <= n;i++)
+	{
+		if (max < VL[i]) max = VL[i];
+	}
+
+	for (int i = 1;i < n;i++)
+	{
+		int tmp = VL[i - 1] + VR[i + 1];
+
+		if (max < tmp) max = tmp;
+	}
+
+	cout << max << '\n';
 }
